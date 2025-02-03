@@ -56,8 +56,6 @@ Este projeto é um exemplo simples de um website informativo sobre São Paulo. S
 
 ## Licença
 
-Este projeto está sob a licença MIT.
+Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-## Autor
-
-Hayyra Eduarda Rocha
+Copyright (c) 2024 Hayyra Eduarda Rocha
